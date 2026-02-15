@@ -1,4 +1,4 @@
-# Student Performance Analysis – SQL Project
+# Student Performance Analysis – ![SQL Project](https://github.com/yamini-17/Sql-project/blob/main/student%20database.sql)
 
 A structured relational database project designed to analyze academic performance and attendance trends using SQL queries.
 
